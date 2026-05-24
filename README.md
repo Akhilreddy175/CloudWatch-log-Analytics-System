@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 CloudWatch Log Analytics System
+#  CloudWatch Log Analytics System
 
 ### Serverless Observability Pipeline on AWS
 
